@@ -37,7 +37,8 @@ group :development do
   gem "binding_of_caller"
   gem "web-console"
   gem "awesome_print"
-  gem 'listen'
+  gem "listen"
+  gem "wdm", ">= 0.1.0" if Gem.win_platform?
 end
 
 group :test do
