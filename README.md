@@ -16,13 +16,13 @@ If it worked, you should be able to navigate to [http://localhost:3000](http://l
 
 ### Getting Started video
 
-You'll find a very brief Getting Started video for this project in Canvas under **Pages**. You should still read this README thoroughly.
+You'll find a brief Getting Started video for this project in Canvas under **Pages**. You should still read this README thoroughly.
 
 ### Study static routes
 
 This app currently supports two routes: [http://localhost:3000/lucky_numbers](http://localhost:3000/lucky_numbers) and [http://localhost:3000/unlucky_numbers](http://localhost:3000/unlucky_numbers).
 
-Open up the [RCAV Flowchart](https://gist.github.com/raghubetina/c200d88adcfe0d4dcd04) and use it as a map to follow how each of these two pages is working, from `config/routes.rb` through the `app/controllers` and finally to the `app/views`.
+Open up the [RCAV Flowchart](https://guides.firstdraft.com/rcav-flowchart.html) and use it as a map to follow how each of these two pages is working, from `config/routes.rb` through the `app/controllers` and finally to the `app/views`.
 
 `unlucky_numbers.html.erb` even demonstrates how to do a `.each` within a `.html.erb` View Template. Ask a question about anything that you don't understand about these two fully-functional RCAVs.
 
@@ -42,7 +42,7 @@ Let me say that again:
 
 #### and debug it
 
-Refer heavily to the [RCAV Flowchart](https://gist.github.com/raghubetina/c200d88adcfe0d4dcd04).
+Refer heavily to the [RCAV Flowchart](https://guides.firstdraft.com/rcav-flowchart.html).
 
 I've planted at least one bug into each RCAV.
 
