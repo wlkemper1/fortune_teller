@@ -36,11 +36,7 @@ Uncomment each one *ONE AT A TIME* and make it work.
 
 Let me say that again:
 
-#### Uncomment each route
-
-### ONE AT A TIME
-
-#### and debug it
+#### Uncomment each route ONE AT A TIME and debug it
 
 Refer heavily to the [RCAV Flowchart](https://guides.firstdraft.com/rcav-flowchart.html).
 
@@ -49,3 +45,7 @@ I've planted at least one bug into each RCAV.
 **YOUR JOB:** Debug all 12 RCAVs.
 
 For example, the video describes how to fix the first zodiac -- Aries.
+
+### Submitting
+
+Run `rails grade`, and sync your work to your fork.
